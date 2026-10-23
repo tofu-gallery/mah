@@ -2,7 +2,7 @@
   "name": "Mah",
   "upstream": "https://github.com/ffalt/mah",
   "upstreamCommit": "45a6f34ac4cc8a3dc2967b6f9f227f04828f3aae",
-  "adaptedSource": "https://github.com/tofu-gallery/mah/tree/pin/2026-10-23",
+  "adaptedSource": "https://github.com/tofu-gallery/mah/tree/pin/2026-10-23.1",
   "license": "MIT (application); artwork and fonts retain their separate upstream licenses",
   "rebuild": "npm ci && node tools/tofu-package.mjs (Node >=26)"
 }
