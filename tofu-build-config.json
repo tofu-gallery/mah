@@ -1,0 +1,10 @@
+{
+  "name": "Mah",
+  "title": "Mah - Mahjong",
+  "description": "The original open source version of many Mahjong games out there. Completely free, no ads, no tracking.",
+  "category": "A Mahjong Solitaire Board Game",
+  "url": "/",
+  "editor": true,
+  "daily": true,
+  "kyodai": false
+}
