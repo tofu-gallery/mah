@@ -52,6 +52,7 @@ Verified on 2026-10-23. No Tofu deployment was performed.
 - Settings > Background > Pattern monster lists 345 patterns, none of them holiday ones, with Triangles 1 to 16, 27 and 28; each of the 345 `assets/patterns/<id>.json` files returned 200 when fetched; choosing African 1 loads its file (200) and paints the board background. Console errors: `[]`.
 - Viewports 1440x900 and 375x812: document scroll dimensions equal the viewport. Screenshots taken on the build before the pattern change show the game and controls fitting, with the upstream portrait board rotation on mobile.
 - Network: every request the app made on the final build was to the local origin and returned 200. A further image request to a `yiban.io` host (status 0) came from a browser-extension overlay in the verification browser, not from the app: the name `yiban` does not appear anywhere under `tofu-site/`.
+- Tofu's own static-lane check of the pushed `tofu` branch at `e6bfabfd` (the GitHub import of `tofu-site/`, read with Tofu's file-type, size and safety predicates; the commit that follows changes only this file) says `files=503 published=497 -> static (finished site) | safety ok (0 findings)`. A simulation of the import keeps all 503 files and drops none.
 
 ### First pin (`pin/2026-10-23`)
 
