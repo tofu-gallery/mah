@@ -1,0 +1,1 @@
+import"./main-MOPR3E2L.js";import{t as bt}from"./chunk-DM8W6TwC.js";export{bt as WorkerService};
