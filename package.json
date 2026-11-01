@@ -56,8 +56,8 @@
   "devDependencies": {
     "@analogjs/vite-plugin-angular": "2.8.1",
     "@analogjs/vitest-angular": "2.8.1",
-    "@angular/build": "22.2.3",
-    "@angular/cli": "22.2.3",
+    "@angular/build": "22.2.4",
+    "@angular/cli": "22.2.4",
     "@angular/compiler-cli": "22.2.3",
     "@angular/language-service": "22.2.3",
     "@eslint/js": "10.0.1",
@@ -67,9 +67,9 @@
     "@types/canvas-confetti": "1.9.0",
     "@types/node": "26.6.5",
     "@vitest/coverage-v8": "5.0.5",
-    "@vitest/eslint-plugin": "1.6.27",
+    "@vitest/eslint-plugin": "1.6.28",
     "angular-eslint": "22.6.0",
-    "baseline-browser-mapping": "2.11.29",
+    "baseline-browser-mapping": "2.11.32",
     "eslint": "10.12.0",
     "eslint-plugin-rxjs-x": "1.0.6",
     "eslint-plugin-unicorn": "77.0.0",
@@ -83,7 +83,7 @@
     "tslib": "2.8.1",
     "typescript": "6.0.3",
     "typescript-eslint": "8.71.2",
-    "vite": "8.3.4",
+    "vite": "8.3.5",
     "vitest": "5.0.5"
   },
   "engines": {
